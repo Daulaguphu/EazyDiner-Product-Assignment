@@ -14,6 +14,6 @@ To provide a launch plan to roll out EazyDiner PRIME, the premium membership pro
 
 ### Approach:
 
-* Understanding the User Personas and pain points
+* User Research and Analysis
 
 * Strategy for new value additions 
